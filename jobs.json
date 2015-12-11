@@ -1,0 +1,77 @@
+[{
+ "job_ID": "101",
+ "name": "Create a button called 'Submit'",
+ "url": "http://google.com",
+ "status": "1",
+ "html": "You job is complete"
+},
+{
+ "job_ID": "102",
+ "name": "Update your resume",
+ "url": "http://facebook.com",
+ "status": "1",
+ "html": "You job is complete"
+},
+{
+ "job_ID": "103",
+ "name": "Read the book 'Eloquent JS'",
+ "url": "http://yahoo.com",
+ "status": "0",
+ "html": "You job is incomplete"
+},
+{
+ "job_ID": "104",
+ "name": "Rewise info about DOM el-ts",
+ "url": "http://google.com",
+ "status": "1",
+ "html": "You job is complete"
+},
+{
+ "job_ID": "105",
+ "name": "Write a new function which sotrs the el-ts in the array",
+ "url": "http://google.com",
+ "status": "0",
+ "html": "You job is incomplete"
+},
+{
+ "job_ID": "106",
+ "name": "Learn how to set a timer in JS",
+ "url": "http://yahoo.com",
+ "status": "1",
+ "html": "You job is complete"
+},
+{
+ "job_ID": "107",
+ "name": "Create two radio buttons on your web page",
+ "url": "http://google.com",
+ "status": "0",
+ "html": "You job is incomplete"
+},
+{
+ "job_ID": "101",
+ "name": "Create a weather app",
+ "url": "http://facebook.com",
+ "status": "0",
+ "html": "You job is incomplete"
+},
+{
+ "job_ID": "108",
+ "name": "Update your personal website",
+ "url": "http://yahoo.com",
+ "status": "1",
+ "html": "You job is complete"
+},
+{
+ "job_ID": "109",
+ "name": "Create a function that adds el-ts in the array",
+ "url": "http://google.com",
+ "status": "1",
+ "html": "You job is complete"
+},
+{
+ "job_ID": "110",
+ "name": "Study Node.js",
+ "url": "http://google.com",
+ "status": "0",
+ "html": "You job is incomplete"
+}]
