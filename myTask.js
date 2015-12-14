@@ -32,9 +32,16 @@ window.onload = function() {
                         myTd.innerHTML = myArray[i][j];
                     }
                 }
-                myTr.onclick = function() {
+                var myTd2 = document.createElement("td");
+                myTr.appendChild(myTd2);
+                var newInput = document.createElement("input");
+                myTd2.appendChild(newInput);
+                newInput.setAttribute("type", "button");
+                newInput.setAttribute("value", "Check the Status");
+                
+                newInput.onclick = function() {
                     console.log(this);
-                    alert(myArray[this.rowIndex].html);
+                    alert(myArray[this.parentNode.parentNode.rowIndex].html);
                 }
             }
             return false; //not to load the page when the form is submitted
